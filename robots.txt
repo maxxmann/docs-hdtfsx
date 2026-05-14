@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maxxmann.github.io/docs-hdtfsx/sitemap.xml
